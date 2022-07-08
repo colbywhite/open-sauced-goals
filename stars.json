@@ -13,33 +13,33 @@
   },
   {
     "full_name": "aws/serverless-application-model",
-    "stargazers_count": 8611,
-    "open_issues_count": 242,
+    "stargazers_count": 8613,
+    "open_issues_count": 239,
     "forks_count": 2198
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 223534,
+    "stargazers_count": 223843,
     "open_issues_count": 50,
-    "forks_count": 60487
+    "forks_count": 60535
   },
   {
     "full_name": "theskumar/python-dotenv",
-    "stargazers_count": 5087,
+    "stargazers_count": 5091,
     "open_issues_count": 26,
     "forks_count": 320
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 19153,
+    "stargazers_count": 19170,
     "open_issues_count": 28,
-    "forks_count": 2096
+    "forks_count": 2095
   },
   {
     "full_name": "serverless/serverless",
-    "stargazers_count": 43030,
+    "stargazers_count": 43043,
     "open_issues_count": 914,
-    "forks_count": 5300
+    "forks_count": 5304
   },
   {
     "full_name": "colbywhite/why82.calc",
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "mundimark/awesome-markdown",
-    "stargazers_count": 1001,
+    "stargazers_count": 999,
     "open_issues_count": 1,
     "forks_count": 168
   },
   {
     "full_name": "fletcher/MultiMarkdown-5",
-    "stargazers_count": 286,
+    "stargazers_count": 287,
     "open_issues_count": 12,
     "forks_count": 51
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 23996,
-    "open_issues_count": 733,
-    "forks_count": 4269
+    "stargazers_count": 24014,
+    "open_issues_count": 735,
+    "forks_count": 4271
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 199137,
+    "stargazers_count": 199513,
     "open_issues_count": 27,
-    "forks_count": 22919
+    "forks_count": 22941
   },
   {
     "full_name": "trstringer/awesome-tech-conferences",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "jnunemaker/httparty",
-    "stargazers_count": 5536,
+    "stargazers_count": 5539,
     "open_issues_count": 43,
     "forks_count": 952
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "rest-client/rest-client",
-    "stargazers_count": 5148,
+    "stargazers_count": 5150,
     "open_issues_count": 133,
-    "forks_count": 953
+    "forks_count": 954
   },
   {
     "full_name": "guipdutra/awesome-geek-podcasts",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 107492,
+    "stargazers_count": 107542,
     "open_issues_count": 217,
-    "forks_count": 11456
+    "forks_count": 11459
   },
   {
     "full_name": "jedi4ever/veewee",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "rubocop/ruby-style-guide",
-    "stargazers_count": 16010,
+    "stargazers_count": 16015,
     "open_issues_count": 59,
-    "forks_count": 3430
+    "forks_count": 3429
   },
   {
     "full_name": "AchoArnold/discount-for-student-dev",
-    "stargazers_count": 2335,
+    "stargazers_count": 2339,
     "open_issues_count": 1,
     "forks_count": 253
   }

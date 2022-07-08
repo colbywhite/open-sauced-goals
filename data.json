@@ -1,26 +1,26 @@
 [
   {
     "full_name": "chancejs/chancejs",
-    "stargazers_count": 5991,
+    "stargazers_count": 5993,
     "open_issues_count": 162,
     "forks_count": 427
   },
   {
     "full_name": "distantcam/windty",
     "stargazers_count": 30,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "moment/luxon",
-    "stargazers_count": 12627,
+    "stargazers_count": 12636,
     "open_issues_count": 109,
-    "forks_count": 627
+    "forks_count": 628
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 712,
-    "open_issues_count": 17,
-    "forks_count": 309
+    "stargazers_count": 715,
+    "open_issues_count": 16,
+    "forks_count": 314
   }
 ]
